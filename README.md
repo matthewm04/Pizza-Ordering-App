@@ -2,7 +2,9 @@ A little pizza ordering app I made using C++, the MFC, and Visual Studio GUI thi
 
 #######################################################################################
 
-If you want to run this application, you will have to build this one yourself. It should be pretty easy, though. Just build it in a recent version of Visual Studio and run it. Be sure to include all the files in this repo in the same folder and open the .sln file to build.
+You can play around and pretend-order a pizza by getting the .exe file.
+
+If you want to run this application, just build it in a recent version of Visual Studio and run it. Be sure to include all the files in this repo (except for the .exe) in the same folder and open the .sln file to build.
 
 #######################################################################################
 
