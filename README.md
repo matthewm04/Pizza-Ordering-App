@@ -6,6 +6,8 @@ You can play around and pretend-order a pizza by getting the .exe file.
 
 If you want to run this application, just build it in a recent version of Visual Studio and run it. Be sure to include all the files in this repo (except for the .exe) in the same folder and open the .sln file to build.
 
+You might also be able to make it easier if the "Open with Vidual Studio" button in the green CODE button is there for you.
+
 #######################################################################################
 
 This was a project I made for my final in the same class as my elevator app. Because I only had a week, it has way less features and doesn't look at nice. But it works and who doesn't love pizza
